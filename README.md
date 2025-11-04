@@ -151,14 +151,5 @@ You can test the system with the following natural language prompts:
 * **FastMCP Framework**
 * **Streamlit (Dashboard)**
 * **JSON for Data Storage**
-
----
-
-## Author
-
-**Avinesh Valsan** and **Tanavi Nipanicar**
-<br>MSc in Artificial Intelligence
-<br>Goa University
-
 ---
 
